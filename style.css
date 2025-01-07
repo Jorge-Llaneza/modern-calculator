@@ -45,8 +45,11 @@ button {
     background-color: #575757;
     border-radius: .5rem;
 }
+button:hover {
+    background-color: #282828;
+}
 button.zero {
-    flex: 2;
+    flex: 2.4;
 }
 button p {
     font-size: 2rem;
